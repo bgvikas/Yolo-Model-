@@ -1,5 +1,5 @@
 {
-  "name": "Yolo-Model",
+  "name": "yolo-flood-model-bot",
   "version": "1.0.0",
   "description": "This is a github repo",
   "main": "index.js",

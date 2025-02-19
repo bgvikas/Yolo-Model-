@@ -7,7 +7,7 @@ const git = simpleGit();
 
 // Make a commit on August 25, 2024
 async function makeCommit() {
-    const commitDate = '2024-08-25';
+    const commitDate = '2024-09-02';
     const formattedDate = moment(commitDate).format('YYYY-MM-DD HH:mm:ss'); // Correct format for Git
 
     const data = { date: commitDate };
