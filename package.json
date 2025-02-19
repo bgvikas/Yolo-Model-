@@ -1,5 +1,5 @@
 {
-  "name": "yolo-flood-model-bot",
+  "name": "Yolo-Model",
   "version": "1.0.0",
   "description": "This is a github repo",
   "main": "index.js",
@@ -11,9 +11,9 @@
     "url": "(https://github.com/bgvikas/Yolo-Model-.git)"
   },
   "keywords": [
-    "Lalith"
+    "Vikas"
   ],
-  "author": "Lalith",
+  "author": "Vikas",
   "license": "ISC",
   "dependencies": {
     "jsonfile": "^6.1.0",
